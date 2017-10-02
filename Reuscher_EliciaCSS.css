@@ -1,0 +1,55 @@
+body{background-image:url("flower.jpg");
+	 font-family:Helvetica, Georgia;
+	 text-align:center;}
+
+#name{text-align:center;
+		font-size:50px;
+		padding-top:10px;
+
+		}
+		
+.headers{border:solid #b752a6 10px;
+		margin-bottom:20px;
+		margin-left:275px;
+		padding:0px;
+		width:750px;
+		align-content:center;
+		background-color:#ffffff;
+		}
+		
+.paragraphs{width:600px;
+			align-content:center;
+			margin-left:85px;}
+			
+
+
+ul{list-style-type:none;
+	margin:0;
+padding:20px;
+color:#ffffff;}
+
+li {display:inline;
+	 text-decoration:none;
+	
+	 color:#ffffff;}
+	 
+nav a {text-decoration:none;
+		color:#ffffff;
+		 background-color:#b752a6;
+		padding:25px;}
+	
+a:hover{background-color:#fc8dc6;}
+		
+.img-circle{border-radius:80%;}		
+		
+form{text-align:center;
+     background-color:#fc8dc6;
+	 color:#ffffff;
+	 width:300px;
+	 margin-left:515px;
+	 border:solid #b752a6 8px;}	
+form h3{padding-bottom:0px;
+padding-top:10px;}
+		
+		
+		
